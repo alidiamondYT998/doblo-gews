@@ -1,0 +1,6 @@
+{
+        "ip":"ALidiamondYT778czL2.aternos.me,
+        "port": "33169",
+        "name": "ALidiamondYT778czL2"
+}
+
